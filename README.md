@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/ yasith-pasindu- bb4a93256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ yasith-pasindu- bb4a93256/" height="30" width="40" /></a>
 <a href="https://fb.com/yasith pasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasith pasindu" height="30" width="40" /></a>
 <a href="https://instagram.com/yasithppasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasithppasindu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yasithppasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yasithppasindu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@fastyazi?si=qfvw6iz7rvphlxhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@fastyazi?si=qfvw6iz7rvphlxhm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
